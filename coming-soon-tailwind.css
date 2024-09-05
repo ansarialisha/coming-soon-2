@@ -1,0 +1,14 @@
+.text-color{
+    background: linear-gradient(to right, #90F374, #00C0B3, #008DD8, #8116F0, #2A80F4, #BA5BC1,#2A80F4, #EC4985, #EA6B4B, #EB3987);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.montserrat{
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+}
+.right{
+    right: 34%;
+}
